@@ -29,7 +29,7 @@ and more.......
 在draw mode中：  
 按下C进入circle mode  
 按下L进入Line mode  
-若要撤回，按下L
+若要撤回，按下U
 
 在进入404界面后，按q返回之前的界面。
 
